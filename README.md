@@ -1,4 +1,4 @@
-### Hello there, I'm Luner, also known as Yaimsputnik 👋
+### Hello there, I'm 0x11, also known as Yaimsputnik 👋
 
 ## I'm a Full-Stack Developer, Here's A Little More About Me!
 
