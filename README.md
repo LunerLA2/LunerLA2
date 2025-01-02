@@ -1,11 +1,14 @@
-### Hello there, I'm 0x11, also known as Yaimsputnik 👋
+### Hello there, I'm 0x11 👋
 
-## I'm a Full-Stack Developer, Here's A Little More About Me!
+## Here's A Little More About Me!
 
 - Ex-Greyhat
 - Cyber Security Specialist/Researcher
 - Programmer
 - Game Developer
+
+----------------------------------------------------------
+"Any shitty unity game is open source if you know how to code in C#" - Me
 
 <br />
 
